@@ -5,7 +5,7 @@
 @section('content')
     <h1>Contact</h1>
 
-    <form method="post" netlify>
+    <form name="contact" method="post" data-netlify="true">
         <div>
             <label for="sender">Name</label><br>
             <input type="text" name="sender" id="sender" required>
