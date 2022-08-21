@@ -23,6 +23,6 @@
 
         <input type="text" name="_gotcha" style="display: none;">
 
-        <input type="submit" name="submit" value="Send">
+        <button type="submit" name="submit" value="Send">
     </form>
 @endsection
